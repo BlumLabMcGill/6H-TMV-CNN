@@ -24,11 +24,13 @@ The model classifies transmission electron microscopy images of 6H-TMV into four
 ## Dataset Structure
 
 The labelled dataset is organized as follows: 
+```
 Labelled_Images/
 ├── background/
 ├── multi/
 ├── single-hex/
 └── single-square/
+```
 
 ## Training
 
